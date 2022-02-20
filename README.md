@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### `Description of the project`
+
+This is a plain web based Laptop Inventory Management System.
+Following are the assumptions made during working on this project:-
+- Constants file contains the sample Department names
+- User will have to choose borrow or return laptop
+- This project focuses on a web based application architecture and hence all the calculation and state management is done via a react based application.
